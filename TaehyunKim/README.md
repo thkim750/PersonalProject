@@ -1,6 +1,4 @@
-## 각자 자신의 프로젝트 이름 (프로젝트 명)
+회원관리 및 게시판 CRUD 기능
 
-이 프로젝트가 무엇을 하는지 적는다.
-
-현재 복습중에 있는 사항
-1. Auth
+Spring Boot + JPA + Vue js
+Spring Security, JWT, Amazon S3 사용
